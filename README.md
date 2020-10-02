@@ -7,6 +7,7 @@ Delphi component to list differences between two integer arrays.  Typically, thi
  Compilers:	Delphi 7 - Delphi 2009                                     
  Author:	Angus Johnson - angusj-AT-myrealbox-DOT-com                
  Copyright:	© 2001-2009 Angus Johnson                                  
+ http://www.angusj.com/delphi/textdiff.html
                                                                               
 ## Licence to use, terms and conditions:                                        
 The code in the TDiff component is released as freeware provided you agree to the following terms & conditions:    
