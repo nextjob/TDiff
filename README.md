@@ -19,7 +19,8 @@ The code in the TDiff component is released as freeware provided you agree to th
 Component to list differences between two integer arrays using a "longest common subsequence" algorithm.            
 Typically, this component is used to diff 2 text files once their individuals lines have been hashed.             
                                                                               
-## Acknowledgements: The key algorithm in this component is based on:           
+## Acknowledgements: 
+The key algorithm in this component is based on:           
 "An O(NP) Sequence Comparison Algorithm"  by Sun Wu, Udi Manber & Gene Myers                         
 And uses a "divide-and-conquer" technique to avoid using exponential amounts of memory as described in:       
 "An O(ND) Difference Algorithm and its Variations" By E Myers - Algorithmica Vol. 1 No. 2, 1986, pp. 251-266  
